@@ -18,11 +18,16 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Strings for PixelPropUtils -->
     <string name="spoof_manufacturer">Google</string>
+    <string name="spoof_model">Pixel 9 Pro XL</string>
+    <string name="spoof_fp">google/komodo_beta/komodo:15/AP41.240925.009/12534705:user/release-keys</string>
     <string name="spoof_brand">google</string>
-    <string name="spoof_device">caiman</string>
-    <string name="spoof_id">AD1A.240530.047.U1</string>
-    <string name="spoof_fp">google/caiman/caiman:14/AD1A.240530.047.U1/12150698:user/release-keys</string>
-    <string name="spoof_model">Pixel 9 Pro</string>
-    <string name="spoof_product">caiman</string>
-    <string name="spoof_spl">2024-08-05</string>
+    <string name="spoof_product">komodo_beta</string>
+    <string name="spoof_device">komodo</string>
+    <string name="spoof_release_ver">15</string>
+    <string name="spoof_id">AP41.240925.009</string>
+    <string name="spoof_incremental_ver">12534705</string>
+    <string name="spoof_type">user</string>
+    <string name="spoof_tags">release-keys</string>
+    <string name="spoof_spl">2024-10-05</string>
+    <string name="spoof_initial_sdk">32</string>
 </resources>
